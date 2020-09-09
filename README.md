@@ -7,7 +7,7 @@
       </p>
 
 <h1 align="center">Hi 👋, I'm Selene Blok</h1>  
-<h3 align="center">Working as a web developer, Loving Disney and Pixar and studying all things data science.</h3>  
+<h3 align="center">Web developer, Disney and Pixar enthusiast and studying data science.</h3>  
 
 <br>
 
