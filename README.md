@@ -14,10 +14,6 @@
   
 - 🌱 I’m currently learning **tensorflow, process mining**  
   
-- 👩‍💻 All of my projects are available at [https://selene.codes](https://selene.codes)  
-  
-- 📝 Have a look at my articles on [https://dev.to/selenecodes](https://dev.to/selenecodes)  
-  
 - 💬 Ask me about **gatsby, data science or javascript**  
 
 - ⚡ Other interests **gaming, reading, art**
