@@ -12,11 +12,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **a process mining internship project**  
+- 🔭 I’m currently working on **a process mining project**  
   
-- 🌱 I’m currently learning **tensorflow, process mining**  
+- 🌱 I’m currently learning **tensorflow, reinforcement learning**  
   
-- 💬 Ask me about **gatsby, data science or javascript**  
+- 💬 Ask me about **react, data science or javascript**  
 
 - ⚡ Other interests **gaming, reading, art**
 
