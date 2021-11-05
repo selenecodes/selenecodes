@@ -8,7 +8,8 @@
       </p>
 
 <h1 align="center">Hi 👋, I'm Selene Blok</h1>  
-<h3 align="center">Web developer, Disney and Pixar enthusiast and studying data science.</h3>  
+<h3 align="center">Data scientist, Disney and Pixar enthusiast and studying data science.</h3>
+<p align="center">Letting data tell a story is my pashion.</p>
 
 <br>
 
