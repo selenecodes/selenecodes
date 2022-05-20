@@ -13,11 +13,11 @@
 
 <br>
 
-- 🔭 I’m currently working on **a process mining project**  
+- 🔭 I’m currently working on **hobby projects, mapbox visualizations and fiddling with Juniper network data.**
   
-- 🌱 I’m currently learning **tensorflow, reinforcement learning**  
+- 🌱 I’m currently learning **D3, data visualization**  
   
-- 💬 Ask me about **react, data science or javascript**  
+- 💬 Ask me about **observablehq, data visualization or javascript**  
 
 - ⚡ Other interests **gaming, reading, art**
 
