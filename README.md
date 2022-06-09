@@ -4,7 +4,6 @@
     <a href="https://linkedin.com/in/selene-blok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="selene-blok" height="30" width="30" /></a>  
     <a href="https://dribbble.com/selenecodes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="selenecodes" height="30" width="30" /></a>
     <a href="https://observablehq.com/@selenecodes" target="blank"><img align="center" src="https://avatars2.githubusercontent.com/u/30080011" alt="selenecodes" height="30" width="30" /></a>
-    <a href="https://www.kaggle.com/seleneblok" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="seleneblok" height="30" width="30" /></a>
       </p>
 
 <h1 align="center">Hi 👋, I'm Selene Blok</h1>  
