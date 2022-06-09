@@ -14,9 +14,9 @@
 
 - 🔭 I’m currently working on **hobby projects, mapbox visualizations and fiddling with Juniper network data.**
   
-- 🌱 I’m currently learning **D3, data visualization**  
+- 🌱 I’m currently learning **D3**, **data visualization**  
   
-- 💬 Ask me about **observablehq, data visualization or javascript**  
+- 💬 Ask me about **[observablehq](https://observablehq.com/@selenecodes)**, **data visualization** or **javascript**  
 
 - ⚡ Other interests **gaming, reading, art**
 
@@ -34,10 +34,4 @@
     <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-</p
-
-<br>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=selenecodes&show_icons=true&icon_color=f8325c&text_color=f8325c&title_color=f8325c&bg_color=282828" alt="selenecodes" />
 </p>
