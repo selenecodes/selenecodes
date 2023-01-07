@@ -12,9 +12,9 @@
 
 <br>
 
-- 🔭 I’m currently working on **hobby projects, mapbox visualizations and fiddling with Juniper network data.**
+- 🔭 I’m currently working on **my new business, hobby projects, and Rijkswaterstaat data projects.**
   
-- 🌱 I’m currently learning **D3**, **data visualization**  
+- 🌱 I’m currently learning **Next 13**, **data visualization**  
   
 - 💬 Ask me about **[observablehq](https://observablehq.com/@selenecodes)**, **data visualization** or **javascript**  
 
