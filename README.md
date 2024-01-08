@@ -12,7 +12,7 @@
 
 <br>
 
-- 🔭 I’m currently working on **my new business, hobby projects, and Rijkswaterstaat data projects.**
+- 🔭 I’m currently working on **hobby projects, and data projects at Rijkswaterstaat.**
   
 - 🌱 I’m currently learning **Next 13**, **data visualization**  
   
