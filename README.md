@@ -1,2 +1,2 @@
-![Fancy logo](./Github Profile Dark.png#gh-dark-mode-only)
-![Fancy logo](./Github Profile Light.png#gh-light-mode-only)
+![Fancy logo](./Github%20Profile%20Dark.png#gh-dark-mode-only)
+![Fancy logo](./Github%20Profile%20Light.png#gh-light-mode-only)
